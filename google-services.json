@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363868767911",
+    "project_id": "p2pl-bcbbd",
+    "storage_bucket": "p2pl-bcbbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363868767911:android:e7ba42384ca90a747f3d82",
+        "android_client_info": {
+          "package_name": "fyp.p2plv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363868767911-daud1ers2t902dv30h63ttkk37rjg3gp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgNL0TM4HJLKVCxrs3S9CQZ1qf8vxGz78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363868767911-daud1ers2t902dv30h63ttkk37rjg3gp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
